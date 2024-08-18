@@ -78,7 +78,7 @@
 }
 
 .btn-blue:hover {
-  background-color: #fff !important;
+  background-color: #ffffff !important;
   color: var(--theme) !important;
   transition: all 0.3s;
 }
